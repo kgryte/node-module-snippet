@@ -1,0 +1,29 @@
+{
+	"string": [
+		"template",
+		"filename",
+		"description",
+		"name"
+	],
+	"boolean": [
+		"help",
+		"version"
+	],
+	"alias": {
+		"help": [
+			"h"
+		],
+		"version": [
+			"V"
+		],
+		"template": [
+			"tmpl"
+		],
+		"filename": [
+			"f"
+		],
+		"description": [
+			"desc"
+		]
+	}
+}
