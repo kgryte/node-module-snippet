@@ -2,5 +2,5 @@
 	"name": "foo",
 	"desc": "",
 	"filename": "index.js",
-	"_filename": "index.js"
+	"_filename": "index.tmpl"
 }
