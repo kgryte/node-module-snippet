@@ -122,7 +122,7 @@ Options:
   -V,    --version             Print the package version.
   -tmpl  --template [name]     Template name. Default: 'default'.
   -f     --filename [filename] Filename. Default: 'index.js'.
-  -desc --description [desc]   Module description. Default: ''.
+  -desc  --description [desc]  Module description. Default: ''.
          --name [name]         Export name. Default: 'foo'.
 ```
 
