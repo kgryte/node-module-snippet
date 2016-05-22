@@ -1,8 +1,7 @@
 'use strict';
 
 /**
-* FUNCTION: beepBoop()
-*	Returns a beep boop.
+* Returns a beep boop.
 *
 * @returns {Void}
 */
